@@ -13,3 +13,6 @@ playwright-report/
 .vscode/
 trajectory.jsonl
 trajectory.md.jsonl
+
+# typescript build info
+tsconfig.tsbuildinfo
